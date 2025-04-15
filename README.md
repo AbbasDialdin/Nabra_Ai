@@ -41,7 +41,7 @@
 
 ## 📷 صور من التطبيق
 
-![screenshot1](assets/screenshot1.png)
+![screenshot1](screenshot1.png)
 
 
 
